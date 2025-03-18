@@ -3,12 +3,12 @@
 This is a Flask-based MCP server that integrates with the **Spotify Web API** to control playback, manage volume, retrieve playlists, and more.
 
 ## 🚀 Features
-- ✅ Authenticate with Spotify
-- ✅ Control playback (Play/Pause/Next/Previous)
-- ✅ Adjust volume
-- ✅ Fetch currently playing song
-- ✅ Retrieve user playlists
-- ✅ MCP Command Execution (for custom commands)
+- Authenticate with Spotify
+- Control playback (Play/Pause/Next/Previous)
+- Adjust volume
+- Fetch currently playing song
+- Retrieve user playlists
+- MCP Command Execution (for custom commands)
 
 
 
